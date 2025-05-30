@@ -1,3 +1,4 @@
-A simple, responsive clone of the YouTube homepage using only HTML and CSS. This project was built to practice layout design, responsiveness, and modern CSS techniques.
+A simple and responsive clone of the YouTube homepage built using only HTML and CSS. This project was created as a front-end design practice to improve my skills in layout structuring, responsive design, and modern CSS techniques. It's fully responsive across devices and closely mimics YouTube’s visual structure.
 
-LIVE DEMO: https://g-r-o-7.github.io/Youtube-Clone/
+🔗 Live Demo: https://jiyarojoseph.github.io/Youtube-Clone-HTML-CSS/
+
