@@ -813,3 +813,29 @@
 .video-stats12 {
   margin-top: 5px;
 }
+
+
+@media (max-width: 1180px) {
+  .main-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media (max-width: 900px) {
+  .main-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .main-grid {
+    grid-template-columns: 1fr;
+  }
+  .sidebar {
+    display: none;
+  }
+  body {
+    margin-left: 0;
+    padding-right: 0;
+  }
+}
+ 
+ 
